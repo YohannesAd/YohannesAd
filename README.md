@@ -2,7 +2,7 @@
 
 <h1 align="center">My name is Yohannes Admassie</h1>
 <p align="center">
-  <b>Software engineer | AI Innovator</b><br>
+  <b>Aspiring Software engineer | AI Innovator</b><br>
   Passionate about building on projects that slove  real-world probelem . Currently working on fitness application  .
 </p>
 
