@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 International student at Minnesota State University, Mankato — majoring in Computer Information Technology & Math
+- 🎓 Minnesota State University, Mankato — majoring in Computer Information Technology & Math
 - 💡 Founder of **GlucoVision** – an AI-powered diabetes tracking app built with React Native & FastAPI
 - 💪 Fitness & tech enthusiast — blending wellness with innovation
 - 🧠 Learning full-stack development and machine learning to solve real-world problems
